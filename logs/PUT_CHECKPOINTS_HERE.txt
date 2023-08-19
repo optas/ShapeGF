@@ -1,0 +1,5 @@
+run the following:
+
+mkdir -p shapetalk_public_recon_2022-Nov-02-13-17-55/checkpoints/
+cd shapetalk_public_recon_2022-Nov-02-13-17-55/checkpoints/
+wget http://download.cs.stanford.edu/orion/changeit3d/epoch_1199_iters_386400.pt
